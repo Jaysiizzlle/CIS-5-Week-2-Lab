@@ -1,7 +1,7 @@
 #include <iostream>
 
 // Lab 2 — Jaylen Chae 
-// CIS 5 Week 02 · Program structure
+// CIS 5 Week 02 Lab 
 
 int main() {
   // TODO: replace TODOs with YOUR labeled lines (5–6 total)
